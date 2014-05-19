@@ -20,26 +20,22 @@ it will provide you a cmd, from where we will run the code.
    "printf" formats variables like in C and Java 5.
    You will get more basic details from http://www.fincher.org/tips/Languages/Ruby/
 
-8. Now Let's look at writing one's own methods in Ruby with the help of a simple program p008mymethods.rb. Observe that we use def and end to declare a method. Parameters are simply a list of local variable names in parentheses.
+8. Now Let's look at writing one's own methods in Ruby with the help of a simple program p008mymethods.rb. Observe that we    use def and end to declare a method. Parameters are simply a list of local variable names in parentheses.
+   Check the methods.rb file
+   The output when I ran the program on my PC was:
+   >ruby methods.rb  
+   Hello  
+   Hello omais  
+   Hello ali  
+   >Exit code: 0 
 
-Check the methods.rb file
-
-The output when I ran the program on my PC was:
-
->ruby methods.rb  
-Hello  
-Hello omais  
-Hello ali  
->Exit code: 0 
-
-9. Now check calculator.rb file. This code is of simple calculator with add, multiplication, division. You can run the code on command prompt as follow.
-
->C:\Ruby>ruby calculator.rb
-Would you like to [add], [multiply], or [subtract]?
-add
-How many values?
-2
-Which numbers would you like to add?
-Enter value #1: 333
-Enter value #2: 444
->The answer is... 777
+9. Now check calculator.rb file. This code is of simple calculator with add, multiplication, division. You can run the       code on command prompt as follow.
+   >C:\Ruby>ruby calculator.rb
+   >Would you like to [add], [multiply], or [subtract]?
+   >add
+   >How many values?
+   >2
+   >Which numbers would you like to add?
+   >Enter value #1: 333
+   >Enter value #2: 444
+   >The answer is... 777
