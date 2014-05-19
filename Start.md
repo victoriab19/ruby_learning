@@ -11,7 +11,7 @@ it will provide you a cmd, from where we will run the code.
 
 5. Enter this line in the file, (puts "Hello World!!!")
 
-6.from the Command Prompt with Ruby. Go to this folder. and enter. C:\Ruby>ruby test.rb
+6. from the Command Prompt with Ruby. Go to this folder. and enter. C:\Ruby>ruby test.rb
 
 7. you will see Hello World!!!. It was our first code in Ruby.
 
@@ -33,3 +33,15 @@ Hello
 Hello omais  
 Hello ali  
 >Exit code: 0 
+
+9. Now check calculator.rb file. This code is of simple calculator with add, multiplication, division. You can run the code on command prompt as follow.
+
+C:\Ruby>ruby calculator.rb
+Would you like to [add], [multiply], or [subtract]?
+add
+How many values?
+2
+Which numbers would you like to add?
+Enter value #1: 333
+Enter value #2: 444
+The answer is... 777
