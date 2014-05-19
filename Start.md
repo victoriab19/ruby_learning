@@ -21,3 +21,15 @@ puts statement is a way to show output like
 "printf" formats variables like in C and Java 5.
 
 You will get more basic details from http://www.fincher.org/tips/Languages/Ruby/
+
+8. Now Let's look at writing one's own methods in Ruby with the help of a simple program p008mymethods.rb. Observe that we use def and end to declare a method. Parameters are simply a list of local variable names in parentheses.
+
+Check the methods.rb file
+
+The output when I ran the program on my PC was:
+
+>ruby methods.rb  
+Hello  
+Hello omais  
+Hello ali  
+>Exit code: 0 
