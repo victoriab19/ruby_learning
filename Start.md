@@ -32,18 +32,18 @@ it will provide you a cmd, from where we will run the code.
 9. Now check calculator.rb file. This code is of simple calculator with add, multiplication, division. You can run the       code on command prompt as follow.
    >C:\Ruby>ruby calculator.rb
 
-   Would you like to [add], [multiply], or [subtract]?
+   >Would you like to [add], [multiply], or [subtract]?
    
-   add
+   >add
    
-   How many values?
+   >How many values?
    
-   2
+   >2
    
-   Which numbers would you like to add?
+   >Which numbers would you like to add?
    
-   Enter value #1: 333
+   >Enter value #1: 333
    
-   Enter value #2: 444
+   >Enter value #2: 444
    
    >The answer is... 777
